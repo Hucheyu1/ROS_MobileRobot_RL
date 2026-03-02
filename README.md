@@ -46,5 +46,6 @@ catkin_ws
                  ---start_ddpg_lstm_training.py  开始对ddpg_lstm网络进行训练/测试
                  ---util.py    辅助函数
 ```          
-                 
-                 
+**演示视频**
+![静态演示](media/static.gif)
+![动态演示](media/dynamic.gif)
