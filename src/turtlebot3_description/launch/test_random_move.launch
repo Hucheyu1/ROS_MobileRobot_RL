@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <!-- Launch the training system -->
+    <node pkg="turtlebot3_description" name="simulate_crowd" type="simulate_random_20.py" output="screen"/>
+</launch>
